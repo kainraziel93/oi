@@ -1,0 +1,20 @@
+.nav-items h6{
+    color: #A6A6A6;
+    cursor: pointer;
+}
+
+.nav-items .active{
+    color:black;
+}
+
+.logo{
+    color: #54BD95;
+}
+
+.home-page-body-container{
+    margin-top: 100px;
+}
+
+.demo{
+    margin-top: 120px;
+}
