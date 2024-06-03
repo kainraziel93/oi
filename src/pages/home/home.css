@@ -18,3 +18,10 @@
 .demo{
     margin-top: 120px;
 }
+
+.boxx{
+    background-image: radial-gradient(ellipse at 0% 0%, #b7faee, white, white,white, white);
+
+    background-image: radial-gradient(ellipse at 100% 100%, #b7faee, white,white, white, #b7faee);
+    
+}
